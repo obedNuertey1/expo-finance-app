@@ -6,7 +6,7 @@ type Props = {};
 const Page = (props: Props) => {
   return (
     <View style={styles.container}>
-      <Text>Home Page</Text>
+      <Text>Settings Screen</Text>
     </View>
   );
 };
@@ -19,4 +19,4 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-});
+}); 
